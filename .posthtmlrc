@@ -7,12 +7,45 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
-        "USE_NEWS_NAV": true,
-        "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "body": [
+          {
+            "type": "text",
+            "value": "Leadin. Something to draw the reader in. Graphics is the only visuals and words desk at the Spectator."
+          },
+          {
+            "type": "text",
+            "value": "Nutgraf. What is the meat of the story? Why does this matter?"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "scrolly.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Editor of The Eye Ann Vettikkal can be contacted at </i><i>ann.vettikkal@columbiaspectator.com</i><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Wilson Zhen can be contacted at </i><i>wilson.zhen@columbiaspectator.com</i><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with The Eye? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and follow us on Instagram </i></b><a href=\"https://www.instagram.com/theeye.mag/\"><b><i>@theeye.mag</i></b></a><b><i>.</i></b>"
+          }
+        ],
+        "headline": "Hamilton Heights residents were surprised by a supportive housing development three years ago. They’re still fighting for public review.",
+        "date": "April 2, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/ann-vettikkal/\">Ann Vettikkal</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/wilson-zhen/\">Wilson Zhen</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/IYEZ3SBQ4FFRLM2K4J3EQAK3GQ.jpg",
+        "cover_caption": "Judy Goldstein / Senior Staff Photographer",
+        "USE_NEWS_NAV": false,
+        "USE_EYE_NAV": true,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1qyaqZWCvpYH_ZInio3tzN-EZlUXGI7BBA6PScN5GeME/edit?tab=t.0"
       }
     }
   }
